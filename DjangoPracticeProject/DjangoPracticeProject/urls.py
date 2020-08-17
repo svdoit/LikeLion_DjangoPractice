@@ -19,5 +19,9 @@ from DjangoPracticeApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.main, name="main"),
+    path('', views.mainView, name="main"),
+    path('blogs/blosPostList', views.blogPostlistView, name="blogPostlist"),
+    path('blogs/<int:blog_id>', views.blogDetailView, name="blogDetail"),
+    path('blogs/new', views.blogNewView, name="blogNew"),
+    path('blogs/create', views.blogCreateView, name="blogCreateFn"),
 ]

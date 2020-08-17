@@ -40,8 +40,20 @@
           </ul>
         </div>
     </nav>
+    <h1>새로운 글쓰기</h1>
+    <br><br>
 
-    <a href="{% url 'blogPostlist' %}">블로그</a>
+    <div class="container">
+        <form action="{% url 'blogCreateFn' %}" method="POST">
+            {% csrf_token %}
+            <h4>제목</h4>
+            <input type="text" name="Blogtitle" autofocus required>
+            <h4>본문</h4>
+            <textarea name="Blogbody" cols=40, rows=10></textarea>
+            <br>
+            <input type="submit" value="저장">
+        </form>
+    </div>
 </body>
 
 </html>

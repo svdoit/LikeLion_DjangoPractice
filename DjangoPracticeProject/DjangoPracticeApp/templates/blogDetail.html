@@ -40,8 +40,10 @@
           </ul>
         </div>
     </nav>
-
-    <a href="{% url 'blogPostlist' %}">블로그</a>
+    <h1>Detail</h1>
+        <h2> 제목 : {{blog_detail.title}}</h2>
+        <p> 날짜 : {{blog_detail.pub_date}}</p>
+        <p> 본문 : {{blog_detail.body}}</p>
 </body>
 
 </html>
