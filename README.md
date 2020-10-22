@@ -21,7 +21,7 @@
 
 ***
 
-## 👩‍💻On-line Hackathon - LOTTE X LIKE LION
+## On-line Hackathon - LOTTE X LIKE LION 👩‍💻
 <p align="center">
 <img width="839" alt="해커톤슬로건" src="https://user-images.githubusercontent.com/46602793/96824481-e6b9f400-1469-11eb-8438-06d3f5f282b9.png" width="30%">
 </p>
@@ -30,8 +30,22 @@
 롯데의 유통, 물류, 제조 서비스 중에서 현재 불편함을 느끼는 부분을 스스로 도출하거나, 롯데그룹에 새롭게 제안하고 싶은 주제를 자유롭게 개발하는 방향
 
 ### Contributers / 팀원 (!!정하기!!)
-🦁*LikeLion 8th Members - Sungshin Women's University*  (!!정하기!!)
-🦁**LikeLion 8th Members - Sungshin Women's University**
+🦁*LikeLion 8th Members - Sungshin Women's University*  (!!정하기!!)  
+
+*LikeLion 8th Members - Sungshin Women's University*🦁  
+
+🦁**LikeLion 8th Members - Sungshin Women's University**  
+
+**LikeLion 8th Members - Sungshin Women's University**🦁  
+
+🦁*LikeLion 8th Members - Sungshin Women's University*🔮  (!!정하기!!)  
+
+*LikeLion 8th Members - Sungshin Women's University*🦁🔮  
+
+🦁**LikeLion 8th Members - Sungshin Women's University**🔮  
+
+**LikeLion 8th Members - Sungshin Women's University**🦁🔮  
+
 | 이름 | 담당 |
 | --- | --- |
 | 김지수([Kim-jisoo11](https://github.com/Kim-jisoo11)) | 백엔드&프론트엔드, UX/UI |
