@@ -32,18 +32,25 @@
 ### Contributers / 팀원 (!!정하기!!)
 🦁*LikeLion 8th Members - Sungshin Women's University*  (!!정하기!!)  
 
+  
 *LikeLion 8th Members - Sungshin Women's University*🦁  
 
+  
 🦁**LikeLion 8th Members - Sungshin Women's University**  
 
+  
 **LikeLion 8th Members - Sungshin Women's University**🦁  
 
+  
 🦁*LikeLion 8th Members - Sungshin Women's University*🔮  
 
+  
 *LikeLion 8th Members - Sungshin Women's University*🦁🔮  
 
+  
 🦁**LikeLion 8th Members - Sungshin Women's University**🔮  
 
+  
 **LikeLion 8th Members - Sungshin Women's University**🦁🔮  
 
 | 이름 | 담당 |
