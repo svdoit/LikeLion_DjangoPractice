@@ -2,7 +2,7 @@
 
 # CheckOn
 <p align="center">
-![LikeLionTypo](https://user-images.githubusercontent.com/46602793/96825701-b9bb1080-146c-11eb-99d9-dd3cfe57caf6.png)
+<img ![LikeLionTypo](https://user-images.githubusercontent.com/46602793/96825701-b9bb1080-146c-11eb-99d9-dd3cfe57caf6.png)/>
 </p>
 
 ## 👩‍💻On-line Hackathon - LOTTE X LIKE LION
