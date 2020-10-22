@@ -10,9 +10,14 @@
   <a href="https://www.sungshin.ac.kr/sites/main_kor/main.jsp">Website</a>
   ·
   <a href="https://drive.google.com/file/d/1u6kN9E-QRZh2bl-Rcmqq59K7-ks2JAwc/view?usp=sharing">Documentation</a>
-</p>
+</p>  
    
-**ChckOn 설명할 간단한 문장**  
+   
+   
+**"ChckOn 설명할 간단한 문장입니다하하하"**  
+- 기능1 : 와아아아아
+- 기능2 : 와아아아아
+- 기능3 : 와아아아아
 
 ***
 
@@ -24,7 +29,9 @@
 ### 주제
 롯데의 유통, 물류, 제조 서비스 중에서 현재 불편함을 느끼는 부분을 스스로 도출하거나, 롯데그룹에 새롭게 제안하고 싶은 주제를 자유롭게 개발하는 방향
 
-### Contributers
+### Contributers / 팀원 (!!정하기!!)
+🦁*LikeLion 8th Members - Sungshin Women's University*  (!!정하기!!)
+🦁**LikeLion 8th Members - Sungshin Women's University**
 | 이름 | 담당 |
 | --- | --- |
 | 김지수([Kim-jisoo11](https://github.com/Kim-jisoo11)) | 백엔드&프론트엔드, UX/UI |
@@ -32,7 +39,9 @@
 | 도수빈([svdoit](https://github.com/svdoit)) | 백엔드&프론트엔드, PPT |
 | 이성민([icechocola05](https://github.com/icechocola05)) | 백엔드&프론트엔드, PPT |
 
+***
 
+## 
 
 
 
