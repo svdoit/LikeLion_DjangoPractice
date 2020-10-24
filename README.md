@@ -3,7 +3,7 @@
 # CheckOn
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/46602793/96825701-b9bb1080-146c-11eb-99d9-dd3cfe57caf6.png" width="50%">
+<img src="https://user-images.githubusercontent.com/46602793/97069377-e3aa3980-160a-11eb-8766-684923dc14dc.png" width="15%" height="15%">
 </p>
 
 <p align="center">
