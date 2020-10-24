@@ -19,6 +19,8 @@
 - 기능2 : 와아아아아
 - 기능3 : 와아아아아
 
+<img src="https://user-images.githubusercontent.com/46602793/97069291-42bb7e80-160a-11eb-9536-85806bcda6a8.gif">
+
 ***
 
 ## On-line Hackathon - LOTTE X LIKE LION 👩‍💻
