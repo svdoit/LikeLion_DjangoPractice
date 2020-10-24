@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/46602793/97069291-42bb7e80-160a-11eb-9536-85806bcda6a8.gif">
   <a href="https://www.sungshin.ac.kr/sites/main_kor/main.jsp">Website</a>
   ·
   <a href="https://drive.google.com/file/d/1u6kN9E-QRZh2bl-Rcmqq59K7-ks2JAwc/view?usp=sharing">Documentation</a>
@@ -19,7 +20,7 @@
 - 기능2 : 와아아아아
 - 기능3 : 와아아아아
 
-<img src="https://user-images.githubusercontent.com/46602793/97069291-42bb7e80-160a-11eb-9536-85806bcda6a8.gif">
+
 
 ***
 
