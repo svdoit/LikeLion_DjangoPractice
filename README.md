@@ -32,29 +32,8 @@
 ### 주제
 롯데의 유통, 물류, 제조 서비스 중에서 현재 불편함을 느끼는 부분을 스스로 도출하거나, 롯데그룹에 새롭게 제안하고 싶은 주제를 자유롭게 개발하는 방향
 
-### 팀원 (!!정하기!!)
-🦁*LikeLion 8th Members - Sungshin Women's University*  (!!정하기!!)  
-
-  
-*LikeLion 8th Members - Sungshin Women's University*🦁  
-
-  
-🦁**LikeLion 8th Members - Sungshin Women's University**  
-
-  
-**LikeLion 8th Members - Sungshin Women's University**🦁  
-
-  
-🦁*LikeLion 8th Members - Sungshin Women's University*🔮  
-
-  
-*LikeLion 8th Members - Sungshin Women's University*🦁🔮  
-
-  
-🦁**LikeLion 8th Members - Sungshin Women's University**🔮  
-
-  
-**LikeLion 8th Members - Sungshin Women's University**🦁🔮  
+### 팀원
+🔮**LikeLion 8th Members - Sungshin Women's University**🦁  
 
 | 이름 | 담당 |
 | --- | --- |
