@@ -63,11 +63,19 @@
 
 ***
 
-#### 2.2 로그인 페이지
+#### 2.3 로그인 페이지
 
 설명
 
 <img src="">
+
+***
+#### 2.4 장바구니 페이지
+
+설명
+
+<img src="">
+
   
     def cart(request):
       categories = Category.objects.all()
