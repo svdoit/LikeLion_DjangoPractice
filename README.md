@@ -49,6 +49,65 @@
 
 ### 2. 주요 기능
 
+#### 2.1 메인 페이지  
+<img src="https://user-images.githubusercontent.com/46602793/97104800-f51e3f00-16f9-11eb-82b1-b87e9fa45b5f.gif">  
+
+설명
+
+
+***
+
+#### 2.2 로그인 페이지
+
+설명
+
+***
+
+#### 2.2 로그인 페이지
+
+설명
+
+<img src="">
+  
+    def cart(request):
+      categories = Category.objects.all()
+      cart = Cart.objects.filter(user=request.user)
+      paginator = Paginator(cart, 10)
+      page = request.GET.get('page')
+      posts = paginator.get_page(page)
+      total_prices = 0
+      for i in cart:
+          i.products.price = i.products.price * i.quantity
+          total_prices = total_prices + i.products.price    
+      cart.totalAmount = total_prices
+
+    # 카테고리별 산 상품 종류 합계
+    isBought = {}
+    for i in cart:
+        if i.category_id in isBought:
+            sum = isBought.get(i.category_id) + 1
+            isBought[i.category_id] = sum
+        else:
+            isBought[i.category_id] = 1
+
+    # 구매 제품 종류 합계
+    totalSum=0
+    for key, value in isBought.items():
+        totalSum = totalSum + value
+    
+
+    # 카테고리 통계
+    countProduct = {}
+    context = {'cart': cart, 'categories': categories, 'posts' : posts, 'totalSum' : totalSum}
+    for i in cart:
+        countProduct[i.category_id] = isBought.get(i.category_id) / totalSum * 100
+
+    for key, value in countProduct.items():
+        context = {'cart': cart, 'categories': categories, 'posts' : posts, 'countProduct' : countProduct, 'totalSum' : totalSum}
+
+    return render(request, 'cart.html', context)
+
+
 ### 3. 
 
 
